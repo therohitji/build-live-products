@@ -1591,7 +1591,7 @@ __NAV__
 <span class="pill">core</span>
 </div>
 <p class="motto">You followed one company through this entire course. Here is what really happened to it, and what happens next is yours.</p>
-<p class="lead">By the end you will have <em class="k">the real GeniOS story and a one-page plan to run the same loop on your own product</em>, so the frameworks stop being something you read and become the next sixty days of your life.</p>
+<p class="lead">By the end you will have <em class="k">the real GeniOS story and a one-page plan to run the same loop on your own product</em>, so the frameworks stop being something you read and become the next four weeks of your life.</p>
 
 <h2><span class="ix">1</span> The Example You Were Given</h2>
 <div class="sub">It was true. It was also, on purpose, only part of the truth.</div>
@@ -1627,7 +1627,7 @@ __NAV__
 <div class="sub">The whole course was quietly training you to produce one thing: a live product.</div>
 <p>Here is the capstone, and it is not a quiz. Take your own product, or the idea you have been holding while you read, and run it through the same loop GeniOS ran. Each line below is a deliverable, the same ones every chapter was teaching you to make. Do them in order. Do not skip to building.</p>
 <div class="callout">
-<div class="ch">Your sixty-day build checklist</div>
+<div class="ch">Your four-week build checklist</div>
 <p style="font-family:var(--font-ui);font-weight:600;">1. Problem evidence: a bleeding, expensive, frequent problem, checked with AI and with real humans. &nbsp; 2. A one-sentence position and a named enemy. &nbsp; 3. Pre-build demand: a signup, a pre-payment, or a signed pilot. &nbsp; 4. A one-page PRD with explicit non-goals and a done-bar. &nbsp; 5. A prototype that earned an honest reaction from a stranger. &nbsp; 6. The boring MVP: one job, end to end, live. &nbsp; 7. Your first non-friend user. &nbsp; 8. A north-star metric and an instrumented funnel. &nbsp; 9. One disciplined experiment, and a clear persevere, pivot, or kill verdict. &nbsp; 10. A launch that is a distribution plan, and one repeatable loop.</p>
 </div>
 <p><strong>Hints</strong> (peek only if you are stuck):</p>

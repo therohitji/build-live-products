@@ -14,7 +14,7 @@
 
 <h2><span class="ix">1</span> The Promise</h2>
 <div class="sub">You will not finish with knowledge. You will finish with a product.</div>
-<p>Most courses hand you theory and trust you to apply it someday. You will not. This one is built as a loop you run, not a body of knowledge you absorb, and it makes one promise: if you do the work, you end with a live product that solves a real problem and has real users, built in roughly sixty days. Every chapter exists to move you one step closer to that, from finding a problem worth a year of your life, to shipping something strangers can use, to growing it. You measure progress not by chapters read but by the thing each chapter asks you to produce. The certificate at the end is the URL you can send someone.</p>
+<p>Most courses hand you theory and trust you to apply it someday. You will not. This one is built as a loop you run, not a body of knowledge you absorb, and it makes one promise: if you do the work, you end with a live product that solves a real problem and has real users, built in roughly four weeks. Every chapter exists to move you one step closer to that, from finding a problem worth a year of your life, to shipping something strangers can use, to growing it. You measure progress not by chapters read but by the thing each chapter asks you to produce. The certificate at the end is the URL you can send someone.</p>
 
 <h2><span class="ix">2</span> Who Is Teaching You</h2>
 <div class="sub">Not a commentator. A founder writing from inside the build.</div>
