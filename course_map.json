@@ -1,0 +1,103 @@
+{
+  "title": "Build Live Products",
+  "author": "Rohit Swerashi",
+  "edition": "2026",
+  "_note": "Single source of truth for chapter/lesson TITLES and order. Content lives in chapters/chNN.js. A lesson is 'live' only when its content exists in a chapter file, else 'soon'. Keep ids identical between this file and chapter keys. No em-dashes anywhere.",
+  "chapters": [
+    { "n": "00", "title": "Start Here", "through_line": "This is a build log, not a syllabus. You finish with a live product in users' hands, and you earn the right to build at every gate.", "lessons": [
+      { "id": "0.1", "t": "What This Course Is" },
+      { "id": "0.2", "t": "How to Read It" }
+    ]},
+    { "n": "01", "title": "Understanding the Problem and the Customer", "through_line": "You don't have an idea, you have a problem hypothesis. Find the bleeding, expensive, frequent problem before you fall in love with a solution.", "lessons": [
+      { "id": "1.1", "t": "Where Problems Come From: Sourcing a Problem Worth Your Year" },
+      { "id": "1.2", "t": "Defined vs Undefined: Two Ways Into a Build" },
+      { "id": "1.3", "t": "Validate the Problem With AI" },
+      { "id": "1.4", "t": "Talk to Humans: Intent, Pain, and the Mom Test" }
+    ]},
+    { "n": "02", "title": "Ideation and Picking the Wedge", "through_line": "The winning idea is the narrowest wedge that solves one painful problem so well that one specific person pays today.", "lessons": [
+      { "id": "2.1", "t": "Solutions Are Cheap: Generate 10 Wedges" },
+      { "id": "2.2", "t": "The Wedge Test" },
+      { "id": "2.3", "t": "Kill Your Favorite Idea (pain x reach x willingness to pay)" }
+    ]},
+    { "n": "03", "title": "Validation: Will They Actually Pay", "through_line": "Validation is evidence of demand before you write code: a signup, a pre-payment, a signed pilot. 'I would use that' is politeness, not validation.", "lessons": [
+      { "id": "3.1", "t": "The Validation Ladder" },
+      { "id": "3.2", "t": "Run a Weekend Smoke Test" },
+      { "id": "3.3", "t": "Pre-sell: Appreciate Is Not Pay" },
+      { "id": "3.4", "t": "The Kill Gate" }
+    ]},
+    { "n": "04", "title": "Feasibility, Pricing and Unit Economics", "through_line": "Easy to build is not the same as worth building. Before you scope anything, prove the ROI works and that someone will actually pay.", "lessons": [
+      { "id": "4.1", "t": "Is It Even Buildable? Team, Budget, Tech" },
+      { "id": "4.2", "t": "Unit Economics: Will the Math Work?" },
+      { "id": "4.3", "t": "Pricing and ROI: The Real Will-They-Pay Test" },
+      { "id": "4.4", "t": "Founder vs Company Lens" }
+    ]},
+    { "n": "05", "title": "Positioning and Differentiation", "through_line": "If you cannot say in one sentence who it is for and why it beats the status quo, you have a feature, not a product.", "lessons": [
+      { "id": "5.1", "t": "The One-Sentence Positioning Statement" },
+      { "id": "5.2", "t": "Pick Your Enemy: Position Against the Status Quo" },
+      { "id": "5.3", "t": "Beating the Three Objections (open source, build it themselves, why you)" }
+    ]},
+    { "n": "06", "title": "Planning the Build", "through_line": "Clarity on the destination comes before the route. Define the ultimate goal, break it to functions and features, and sequence the milestones.", "lessons": [
+      { "id": "6.1", "t": "Define the Ultimate Goal and Outcome" },
+      { "id": "6.2", "t": "Vision to Functions to Features" },
+      { "id": "6.3", "t": "MoSCoW: Must, Should, Could, Would" },
+      { "id": "6.4", "t": "Break to Unit Level and Set Milestones" }
+    ]},
+    { "n": "07", "title": "Documentation: PRD and User Journey", "through_line": "A one-page spec that names the user, the core flow, the non-goals, and the done-bar beats a 30-page document nobody reads.", "lessons": [
+      { "id": "7.1", "t": "The One-Page PRD" },
+      { "id": "7.2", "t": "Mapping the User Journey" },
+      { "id": "7.3", "t": "Functional vs Non-Functional Requirements" }
+    ]},
+    { "n": "08", "title": "Prototyping: Fake It Before You Build It", "through_line": "A prototype's only job is to make a stranger's reaction cheap to collect. Deliver the outcome by hand before you write production code.", "lessons": [
+      { "id": "8.1", "t": "Concierge and Wizard-of-Oz" },
+      { "id": "8.2", "t": "Clickable Prototypes That Get Honest Reactions" },
+      { "id": "8.3", "t": "Reading Feedback: Signal vs Noise" }
+    ]},
+    { "n": "09", "title": "The MVP: The Boring V1", "through_line": "The MVP is the smallest thing that delivers the core value once, end to end, for real. It will look nothing like the version you imagined, and that is fine.", "lessons": [
+      { "id": "9.1", "t": "Prototype vs MVP vs Full Product" },
+      { "id": "9.2", "t": "What Is In, What Is Out" },
+      { "id": "9.3", "t": "The Critical Path: One Job, End to End" }
+    ]},
+    { "n": "10", "title": "Building With AI", "through_line": "AI does not build the product for you. You break the plan to unit level and direct the coding agent precisely, or you get a demo, not an MVP.", "lessons": [
+      { "id": "10.1", "t": "Build With AI: PRD, Docs, and Decisions" },
+      { "id": "10.2", "t": "Prompting Like a Builder: Break It to Unit Level" },
+      { "id": "10.3", "t": "UI and UX With AI: References and Plain-English Translation" },
+      { "id": "10.4", "t": "Vibe-Coding for Prototypes, Coding Agents for MVPs" },
+      { "id": "10.5", "t": "The Product Levels: UI to Backend to Deploy to QA" }
+    ]},
+    { "n": "11", "title": "Execution: Ship It Live", "through_line": "Shipping is a skill, not an event. Pick the boring stack, build the critical path first, and get live fast enough to still be wrong cheaply.", "lessons": [
+      { "id": "11.1", "t": "Pick the Boring Stack" },
+      { "id": "11.2", "t": "Build Level by Level, Never One-Shot" },
+      { "id": "11.3", "t": "Get It Live: Deploy and Your First Non-Friend User" }
+    ]},
+    { "n": "12", "title": "Analytics: Instrument and Read the Truth", "through_line": "Vanity metrics flatter you. Instrument the activation-to-retention funnel so the product tells you the truth about whether anyone got the value.", "lessons": [
+      { "id": "12.1", "t": "Pick Your North-Star and the Funnel" },
+      { "id": "12.2", "t": "Instrument From Day One" },
+      { "id": "12.3", "t": "Vanity vs Truth Metrics" },
+      { "id": "12.4", "t": "Read a Cohort Retention Curve" }
+    ]},
+    { "n": "13", "title": "A/B Testing and Iteration", "through_line": "Once there is traffic, opinions lose. Run one disciplined experiment against one metric, and let the data decide: persevere, pivot, or kill.", "lessons": [
+      { "id": "13.1", "t": "One Experiment at a Time" },
+      { "id": "13.2", "t": "A/B Testing at Low Traffic (and the alternatives)" },
+      { "id": "13.3", "t": "Persevere, Pivot, or Kill" }
+    ]},
+    { "n": "14", "title": "Launch and Grow Toward Retention", "through_line": "A launch is a distribution plan, not an announcement. Earn one channel where your customer already gathers, fix the leaky funnel, then pour fuel.", "lessons": [
+      { "id": "14.1", "t": "A Launch Is a Distribution Plan" },
+      { "id": "14.2", "t": "The Launch Playbook" },
+      { "id": "14.3", "t": "Fix the Leaky Funnel Before You Scale" },
+      { "id": "14.4", "t": "Find the Repeatable Loop" }
+    ]},
+    { "n": "15", "title": "The Build Lab: 10 Real 0 to 1 Teardowns", "through_line": "Every framework here is theory until you watch a real 2025 to 2026 product run it from zero to live. Reverse-engineer ten, then run the loop on your own bet.", "lessons": [
+      { "id": "15.1", "t": "Cursor" },
+      { "id": "15.2", "t": "Perplexity" },
+      { "id": "15.3", "t": "ElevenLabs" },
+      { "id": "15.4", "t": "Granola" },
+      { "id": "15.5", "t": "Bolt.new" },
+      { "id": "15.6", "t": "Lovable" },
+      { "id": "15.7", "t": "Deel" },
+      { "id": "15.8", "t": "Cal.com" },
+      { "id": "15.9", "t": "Linear" },
+      { "id": "15.10", "t": "Replit Agent" },
+      { "id": "15.11", "t": "Capstone: The Pivot, and Your Turn" }
+    ]}
+  ]
+}
