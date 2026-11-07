@@ -1,3 +1,45 @@
+<!-- presentation:start -->
+<p align="center"><img src="https://raw.githubusercontent.com/therohitji/therohitji/main/repos/build-live-products.svg" width="100%" alt="Build Live Products. From a raw problem to a live product with real users, in about 4 weeks. 22,281 Lines of code, 25 Files, 2 Code areas, 3 Languages."></p>
+
+**Live:** https://hustlersfellowship.com/buildliveproducts
+
+## What it is
+
+A complete course, written and built as one HTML file.
+
+## Why it exists
+
+The full 0 to 1 loop, taught by following a real company through every step.
+
+## How it works
+
+```mermaid
+flowchart LR
+  n0["Chapters"]
+  n1["Lessons"]
+  n2["build.py"]
+  n3["One HTML file"]
+  n4["Live course"]
+  n0 --> n1 --> n2 --> n3 --> n4
+```
+
+## What's inside
+
+| Part | What |
+|---|---|
+| **Size** | 16 chapters, 63 lessons |
+| **Cases** | 10 real teardowns |
+| **Outcome** | A live product with real users |
+
+**Stack:** HTML, JavaScript, Python
+
+---
+
+Built by [Rohit Swerashi](https://github.com/therohitji), Founder & CEO of [GeniOS](https://thegenios.com).
+<!-- presentation:end -->
+
+## Full documentation
+
 # Build Live Products (2026)
 
 A build-first course that takes you from a raw problem to a live product with real users, in about 4 weeks. By **Rohit Swerashi**, founder of GeniOS, taught through the **Hustlers Fellowship**.
